@@ -1,0 +1,292 @@
+[
+
+	{
+		"Nombre": "Tapabocas Blanco",
+		"Precio": 200,
+		"Descripcion": null,
+		"Urlimage": "./images/tapabocas_blanco.jpeg"
+	},
+
+	{
+		"Nombre": "Tapabocas Gris ",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/tapabocas_gris.jpeg"
+	},
+
+	{
+		"Nombre": "Sudadera Amarilla Cráneo",
+		"Precio": 250,
+		"Descripcion": null,
+		"Urlimage": "./images/sudadera_amarilla_craneo.jpeg"
+	},
+
+	{
+		"Nombre": "Sudadera Negra Cráneo Línea color",
+		"Precio": 600,
+		"Descripcion": null,
+		"Urlimage": "./images/sudadera_negra_craneo.jpeg"
+	},
+			{
+		"Nombre": "Sudadera Negra Cráneo Izquierdo",
+		"Precio": 140,
+		"Descripcion": null,
+		"Urlimage": "./images/sudadera_negra_craneo_izquierdo.jpeg"
+	},
+		{
+		"Nombre": "Bolsa Negra Cráneo",
+		"Precio": 140,
+		"Descripcion": null,
+		"Urlimage": "./images/bolsa_negra_craneo.jpeg"
+	},
+
+
+	{
+		"Nombre": "Player Negra",
+		"Precio": 170,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_negra_craneo.jpeg"
+	},
+	{
+		"Nombre": "Playera Negra Astronauta",
+		"Precio": 180,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_negra_astronauta.jpeg"
+	},
+	{
+		"Nombre": "Playera Blanca Astronauta",
+		"Precio": 180,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_blanca_astronauta.jpeg"
+	},
+	{
+		"Nombre": "Playera Negra Pride",
+		"Precio": 270,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_negra_pride.jpeg"
+	},
+	{
+		"Nombre": "Playera Negra Skull Reza Hombre",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_negra_craneo_reza_hombre.jpeg"
+	},
+	{
+		"Nombre": "Playera Negra Skull Reza Mujer",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_negra_craneo_reza_mujer.jpeg"
+	},
+	{
+		"Nombre": "Playera Blanca Cráneo Terciopelo",
+		"Precio": 380,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_blanca_craneo_tercipelo.jpeg"
+	},
+	{
+		"Nombre": "Playera David Tatuaje",
+		"Precio": 250,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_david_tatuaje.jpeg"
+	},
+	{
+		"Nombre": "Playera Negra Cráneo Líneas  ",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_negra_craneo_linea.jpeg"
+	},
+	{
+		"Nombre": "Playera Verde Skull",
+		"Precio": 370,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_verde_craneo.jpeg"
+	},
+	{
+		"Nombre": "Playera Cráneo Píldoras",
+		"Precio": 300,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_craneo_pildora.jpeg"
+	},
+	{
+		"Nombre": "Reboso Azul Cráneo.jpeg",
+		"Precio": 300,
+		"Descripcion": null,
+		"Urlimage": "./images/reboso_azul_craneo.jpeg"
+	},
+	{
+		"Nombre": "Playera Gris Textura",
+		"Precio": 60,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_gris_textura.jpeg"
+	},
+	{
+		"Nombre": "Bolsa Manta Cráneo Línea",
+		"Precio": 180,
+		"Descripcion": null,
+		"Urlimage": "./images/bolsa_manta_craneo.jpeg"
+	},
+	{
+		"Nombre": "Mono Azul Cráneo",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/mono_azul_craneo.jpeg"
+	},
+	{
+		"Nombre": "Bolsa Manta Cráneo Azul",
+		"Precio": 80,
+		"Descripcion": null,
+		"Urlimage": "./images/bolsa_manta_craneo_azul.jpeg"
+	},
+	{
+		"Nombre": "Bolsa Cráneo Militar",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/bolsa_craneo_militar.jpeg"
+	},
+	{
+		"Nombre": "Paleacate Negro Cráneo",
+		"Precio": 200,
+		"Descripcion": null,
+		"Urlimage": "./images/paleacate_negro_craneo.jpeg"
+	},
+	{
+		"Nombre": "Bolsa Verde Cráneo Amarillo",
+		"Precio": 250,
+		"Descripcion": null,
+		"Urlimage": "./images/bolsa_verde_craneo_amarillo.jpeg"
+	},
+	{
+		"Nombre": "Bolsa Manta Mecanico Naranja",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/bolsa_manta_mecanico_naranja.jpeg"
+	},
+	{
+		"Nombre": "Bolsa Manta Mecanico Negro",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/bolsa_manta_mecanico_negro.jpeg"
+	},
+	{
+		"Nombre": "Capa Negra ",
+		"Precio": 100,
+		"Descripcion": null,
+		"Urlimage": "./images/capa_negra.jpeg"
+	},
+	{
+		"Nombre": "Playera Mono",
+		"Precio": 200,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_mono.jpeg"
+	},
+	{
+		"Nombre": "Playera Tigre Mujer  ",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_tigre.jpeg"
+	},
+	{
+		"Nombre": "Playera Dedo",
+		"Precio": 80,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_dedo.jpeg"
+	},
+	{
+		"Nombre": "Playera Ojo",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_ojo.jpeg"
+	},
+	{
+		"Nombre": "Playera Puntos Neón",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_puntos_neon.jpeg"
+	},
+	{
+		"Nombre": "Playera Blanca Craneo Línea Amarillo",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_blanca_craneo_linea_amarillo.jpeg"
+	},
+	{
+		"Nombre": "Playera Negra Cráneo Chico ",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_negra_craneo_chico.jpeg"
+	},
+	{
+		"Nombre": "Playera Blanca Tigre Rayo",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_blanca_tigre_rayo.jpeg"
+	},
+	{
+		"Nombre": "Playera Blanca Gato Rayo Mujer",
+		"Precio": 200,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_blanca_gato_rayo_mujer.jpeg"
+	},
+	{
+		"Nombre": "Playera Blanca Gato Rayo Hombre",
+		"Precio": 200,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_blanca_gato_rayo_hombre.jpeg"
+	},
+	{
+		"Nombre": "Playera Gris Snoopy Mujer",
+		"Precio": 180,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_gris_snoopy_mujer.jpeg"
+	},
+	{
+		"Nombre": "Anillo Acero Mecanico",
+		"Precio": 199,
+		"Descripcion": null,
+		"Urlimage": "./images/anillo_acero_mecanico.jpeg"
+	},
+	{
+		"Nombre": "Sudadera Gris Cráneo",
+		"Precio": 550,
+		"Descripcion": null,
+		"Urlimage": "./images/sudadera_gris_craneo.jpeg"
+	},
+	{
+		"Nombre": "Vestido Gris Mecanico",
+		"Precio": 200,
+		"Descripcion": null,
+		"Urlimage": "./images/vestido_gris_mecanico.jpeg"
+	},
+	{
+		"Nombre": "Playera Gris Superheroes",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_gris_superheroes.jpeg"
+	},
+	{
+		"Nombre": "Playera Tirantes Tigre",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_tirantes_tigre.jpeg"
+	},
+	{
+		"Nombre": "Playera Negra Cráneo Terciopelo",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_negra_craneo_terciopelo.jpeg"
+	},
+	{
+		"Nombre": "Playera Cráneo SBB",
+		"Precio": 350,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_craneo_SBB.jpeg"
+	},
+	{
+		"Nombre": "Playera Blanca Cráneo Tucán   ",
+		"Precio": 200,
+		"Descripcion": null,
+		"Urlimage": "./images/playera_blanca_craneo_tucan.jpeg"
+	}
+
+	 
+]
