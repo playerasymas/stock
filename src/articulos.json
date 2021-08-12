@@ -438,5 +438,23 @@
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_skull_neon.jpeg"
 							 
 	}
+	,
+
+	 		{
+		"Nombre": "Camiseta Hombre Verde Cráneo Butterfly",
+		"Precio": 299,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_verde_craneo_butterfly.jpeg"
+							 
+	}
+	,
+
+	 		{
+		"Nombre": "Sudadera Rinoceronte",
+		"Precio": 599,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/sudadera_rinoceronte.jpeg"
+							 
+	}
 
 ]
