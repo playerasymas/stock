@@ -457,5 +457,15 @@
 		"Urlimage": "https://playerasymas.github.io/stock/images/sudadera_rinoceronte.jpeg"
 							 
 	}
+	,
+
+
+	 		{
+		"Nombre": "Camiseta Cráneo Toronja",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_craneo_toronja.jpeg"
+							 
+	}
 
 ]
