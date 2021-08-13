@@ -1,10 +1,10 @@
 [
 
 	{
-		"Nombre": "Cubrebocas KN95 Gris",
+		"Nombre": "Cubrebocas KN95 Militar",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/cubrebocas_gris.jpeg"
+		"Urlimage": "https://playerasymas.github.io/stock/images/cubrebocas_militar.jpeg"
 	},
 	{
 		"Nombre": "Cubrebocas KN95 Blanco",
@@ -81,6 +81,12 @@
 		"Precio": 499,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_skullFC.jpeg"
+	},
+	{
+		"Nombre": "Camiseta mujer SkullFC",
+		"Precio": 499,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_mujer_skullFC.jpeg"
 	},
 	{
 		"Nombre": "Camiseta David Tatuaje",
@@ -437,8 +443,7 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_skull_neon.jpeg"
 							 
-	}
-	,
+	}	,
 
 	 		{
 		"Nombre": "Camiseta Hombre Verde Cráneo Butterfly",
@@ -446,25 +451,73 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_verde_craneo_butterfly.jpeg"
 							 
-	}
-	,
+	}	,
 
 	
 	 		{
-		"Nombre": "Sudadera Rinoceronte",
+		"Nombre": "Sudadera Rhino",
 		"Precio": 599,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/sudadera_rinoceronte.jpeg"
 							 
-	}
-	,
-
+	}	,
 
 	 		{
 		"Nombre": "Camiseta Cráneo Toronja",
 		"Precio": 249,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_craneo_toronja.jpeg"
+							 
+	}		,
+
+	 		{
+		"Nombre": "Camiseta Mujer Conejo",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_mujer_conejo.jpeg"
+							 
+	}		,
+
+	 		{
+		"Nombre": "Sudadera Felpa Marino Píldoras",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/sudadera_felpa_marino_pildoras.jpeg"
+							 
+	}			,
+
+	 		{
+		"Nombre": "Tank Top BS",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/tank_top_BS.jpeg.jpeg"
+							 
+	}
+		,
+
+	 		{
+		"Nombre": "Camiseta Hombre SkullHalf",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta hombre skullHalf.jpeg.jpeg"
+							 
+	}
+		,
+
+	 		{
+		"Nombre": "Camiseta Negra SkullPixel",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_negra_skullPixel.jpeg"
+							 
+	}
+		,
+
+	 		{
+		"Nombre": "Camiseta Cráneo Morada",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_craneo_morada.jpeg"
 							 
 	}
 
