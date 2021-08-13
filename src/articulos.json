@@ -80,7 +80,7 @@
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_david_tatuaje.jpeg"
 	},
 	
-	
+
 	{
 		"Nombre": "Camiseta Hombre Verde ",
 		"Precio": 249,
@@ -203,18 +203,8 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_mujer_gato.jpeg"
 	},
-	{
-		"Nombre": "Camiseta Hombre Gato Hombre",
-		"Precio": 299,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_gato.jpeg"
-	},
-	{
-		"Nombre": "Camiseta Gris Snoopy Mujer",
-		"Precio": 100,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_gris_snoopy_mujer.jpeg"
-	},
+	 
+ 
 	{
 		"Nombre": "Anillo Acero Mecanico",
 		"Precio": 199,
@@ -233,12 +223,8 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/vestido_gris_REBORN.jpeg"
 	},
-	{
-		"Nombre": "Camiseta Gris Superheroes",
-		"Precio": 100,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_gris_superheroes.jpeg"
-	},
+	
+	
 	{
 		"Nombre": "Camiseta Tirantes Tigre",
 		"Precio": 199,
@@ -311,12 +297,7 @@
 	}
 	,
 
-	{
-		"Nombre": "Camiseta Hombre Cráneo Mini CB",
-		"Precio": 100,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_craneo_mini_CB.jpeg"
-	}
+ 
 	,
 
 	{
