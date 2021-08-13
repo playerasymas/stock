@@ -35,26 +35,14 @@
 	 
 
 
-	{
-		"Nombre": "Camiseta Hombre Skull Neo Línea",
-		"Precio": 249,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_skull_linea.jpeg"
-	},
-	
-	
+ 
 	{
 		"Nombre": "Camiseta Negra Pride",
 		"Precio": 249,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_negra_pride.jpeg"
 	},
-	{
-		"Nombre": "Camiseta Hombre Skeleton",
-		"Precio": 299,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_skeleton.jpeg"
-	},
+ 
 	{
 		"Nombre": "Camiseta Mujer Skeleton",
 		"Precio": 299,
@@ -148,12 +136,7 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/capa_negra.jpeg"
 	},
-	{
-		"Nombre": "Camiseta Hombre Mon",
-		"Precio": 249,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_mon.jpeg"
-	},
+ 
 	{
 		"Nombre": "Camiseta mujer Tigre",
 		"Precio": 299,
@@ -179,12 +162,7 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_puntos_neon.jpeg"
 	},
-	{
-		"Nombre": "Camiseta Hombre Skull Linea",
-		"Precio": 349,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_skull_linea.jpeg"
-	},
+ 
 	{
 		"Nombre": "Camiseta Hombre CM",
 		"Precio": 199,
@@ -201,7 +179,7 @@
 		"Nombre": "Camiseta Mujer Gato",
 		"Precio": 299,
 		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_mujer_gato.jpeg"
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_gato_mujer.jpeg"
 	},
 	 
  
