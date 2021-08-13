@@ -163,7 +163,7 @@
 	},
 	{
 		"Nombre": "Sudadera Oxford Skull",
-		"Precio": 299,
+		"Precio": 599,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/sudadera_oxford_skull.jpeg"
 	},
@@ -343,7 +343,13 @@
 	}	,
 
 	 		{
-		"Nombre": "Camiseta Cráneo Toronja",
+		"Nombre": "	
+	{
+		"Nombre": "Camiseta Tirantes Tigre",
+		"Precio": 199,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_tirantes_tigre.jpeg"
+	},Camiseta Cráneo Toronja",
 		"Precio": 249,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_craneo_toronja.jpeg"
@@ -430,5 +436,14 @@
 		"Precio": 199,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/pulsera_ojo_tigre.jpeg"
+	},
+
+
+		
+	{
+		"Nombre": "Camiseta Tirantes Panda",
+		"Precio": 199,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_tirantes_panda.jpeg"
 	}
 ]
