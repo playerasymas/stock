@@ -41,18 +41,8 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_skull_linea.jpeg"
 	},
-	{
-		"Nombre": "Camiseta Hombre Gris Astronauta",
-		"Precio": 299,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_blanca_astronauta.jpeg"
-	},
-	{
-		"Nombre": "Camiseta Hombre Negra Astronauta",
-		"Precio": 299,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_negra_astronauta.jpeg"
-	},
+	
+	
 	{
 		"Nombre": "Camiseta Negra Pride",
 		"Precio": 249,
@@ -89,12 +79,8 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_david_tatuaje.jpeg"
 	},
-	{
-		"Nombre": "Camiseta Hombre SLW",
-		"Precio": 299,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_SLW.jpeg"
-	},
+	
+	
 	{
 		"Nombre": "Camiseta Hombre Verde ",
 		"Precio": 249,
@@ -112,12 +98,6 @@
 		"Precio": 599,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/reboso_azul_craneo.jpeg"
-	},
-	{
-		"Nombre": "Camiseta Hombre Píldoras Gris",
-		"Precio": 499,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_pildoras_gris.jpeg"
 	},
  
 	{
