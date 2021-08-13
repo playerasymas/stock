@@ -12,30 +12,7 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/cubrebocas_blanco.jpeg"		
 	},
-
-	{
-		"Nombre": "Sudadera Amarilla Cráneo",
-		"Precio": 250,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/sudadera_amarilla_craneo.jpeg"
-	},
-
-	{
-		"Nombre": "Suéter Mujer Ruso PVD Skull",
-		"Precio": 349,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/sueter_negro_skull.jpeg"
-	},
-			{
-		"Nombre": "Sudadera Skull Side",
-		"Precio": 699,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/sudadera_skull_side.jpeg"
-	},
-	 
-
-
- 
+  
 	{
 		"Nombre": "Camiseta Negra Pride",
 		"Precio": 249,
@@ -81,12 +58,7 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_pildoras.jpeg"
 	},
-	{
-		"Nombre": "Reboso Azul Cráneo.jpeg",
-		"Precio": 599,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/reboso_azul_craneo.jpeg"
-	},
+ 
  
 	{
 		"Nombre": "Moño Jaquard",
@@ -216,14 +188,8 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_mujer_SBB.jpeg"
 	},
-	{
-		"Nombre": "Camiseta Mujer Tucán",
-		"Precio": 299,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_mujer_tucan.jpeg"
-	}
-	,
-		
+ 
+ 
 	{
 		"Nombre": "Camiseta Hombre Snout",
 		"Precio": 249,
@@ -271,7 +237,7 @@
 		"Nombre": "Tabla Madera Skull",
 		"Precio": 200,
 		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/tabla_madera_skull.jpg"
+		"Urlimage": "https://playerasymas.github.io/stock/images/tabla_madera_skull.jpeg"
 	}	,
 	
 	{
