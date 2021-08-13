@@ -265,12 +265,7 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_tirantes_tigre.jpeg"
 	},
-	{
-		"Nombre": "Camiseta Hombre CBI",
-		"Precio": 499,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_CBI.jpeg"
-	},
+ 
 	{
 		"Nombre": "Camiseta Mujer SBB",
 		"Precio": 349,
@@ -325,7 +320,7 @@
 		"Nombre": "Camiseta Hombre Blanca 3CS",
 		"Precio": 349,
 		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_blanca_3CS.jpg"
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_blanca_3CS.jpeg"
 	}
 ,
 	{
@@ -528,5 +523,11 @@
 		"Precio": 499,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_skull_puntos_neon.jpeg"
+	},
+		{
+		"Nombre": "Pulsera Ojo Tigre",
+		"Precio": 199,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/pulsera_ojo_tigre.jpeg"
 	}
 ]
