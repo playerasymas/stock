@@ -1,14 +1,14 @@
 [
 
 	{
-		"Nombre": "Cubrebocas KN95 Militar",
-		"Precio": 350,
+		"Nombre": "Cubrebocas KN95",
+		"Precio": 99,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/cubrebocas_militar.jpeg"
 	},
 	{
 		"Nombre": "Cubrebocas KN95 Blanco",
-		"Precio": 200,
+		"Precio": 59,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/cubrebocas_blanco.jpeg"		
 	},
@@ -32,12 +32,7 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/sudadera_skull_side.jpeg"
 	},
-		{
-		"Nombre": "Bolsa Negra SkullPixel",
-		"Precio": 349,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/bolsa_negra_skullPixel.jpeg"
-	},
+	 
 
 
 	{
@@ -124,12 +119,7 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_pildoras_gris.jpeg"
 	},
-	{
-		"Nombre": "Bolsa Manta SBlack",
-		"Precio": 149,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/bolsa_manta_SBlack.jpeg"
-	},
+ 
 	{
 		"Nombre": "Moño Jaquard",
 		"Precio": 249,
@@ -359,15 +349,9 @@
 		"Precio": 249,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_gris_skull_mecanico_mujer.jpeg"
-	}
-	,
-	{
-		"Nombre": "Camiseta Gris Mi Exs Puto",
-		"Precio": 249,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_gris_mi_exs_puto.jpeg"
-	}
-	,
+	}	,
+ 
+
 
 	{
 		"Nombre": "Camiseta Tirantes Make Takos",
@@ -499,7 +483,7 @@
 		"Nombre": "Camiseta Hombre SkullHalf",
 		"Precio": 249,
 		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta hombre skullHalf.jpeg.jpeg"
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta hombre skullHalf.jpeg"
 							 
 	}
 		,
@@ -514,11 +498,35 @@
 		,
 
 	 		{
-		"Nombre": "Camiseta Cráneo Morada",
-		"Precio": 249,
+		"Nombre": "Camiseta Hombre PC",
+		"Precio": 349,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_craneo_morada.jpeg"
 							 
 	}
+		,
 
+	 		{
+		"Nombre": "Aretes Calavera De Cristal Swarovski® Sunrise",
+		"Precio": 449,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/aretes_skull_swarovski_sunrise.jpeg"
+							 
+	},
+		
+
+	 		{
+		"Nombre": "Aretes Acero Tornasol De Cristales Swarovski®",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/aretes_tornasol_swarovski.jpeg"
+							 
+	},
+
+		{
+		"Nombre": "Camiseta Hombre Skull Puntos Neón Azul",
+		"Precio": 499,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_skull_puntos_neon.jpeg"
+	}
 ]
