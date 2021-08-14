@@ -65,7 +65,7 @@ function App() {
 
 			<Container>
 				<Row>
-					{word != ""
+					{word !== ""
 						? bdArticulos
 								.filter((el) =>
 									el.Nombre.normalize("NFD")
