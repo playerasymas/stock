@@ -91,39 +91,39 @@
 		"Urlimage": "https://playerasymas.github.io/stock/images/bolsa_verde_craneo_amarillo.jpeg"
 	},
 	{
-		"Nombre": "Bolsa Manta Logo Mecanico Naranja",
+		"Nombre": "Bolsa Pana Logo Mecanico Naranja",
 		"Precio": 199,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/bolsa_manta_logo_mecanico_naranja.jpeg"
 	},
 	{
-		"Nombre": "Bolsa Manta Logo Mecanico",
+		"Nombre": "Bolsa Pana Logo Mecanico",
 		"Precio": 199,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/bolsa_manta_logo_mecanico.jpeg"
 	},
 	{
-		"Nombre": "Capa Negra ",
+		"Nombre": "Gabardina Negra ",
 		"Precio": 599,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/capa_negra.jpeg"
 	},
  
 	{
-		"Nombre": "Camiseta mujer Tigre",
+		"Nombre": "Camiseta Mujer Black TB",
 		"Precio": 299,
 		"Genero":"mujer",
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_mujer_tigre.jpeg"
 	},
 	{
-		"Nombre": "Camiseta Mujer Dedo B",
+		"Nombre": "Camiseta hombre Dedo B",
 		"Precio": 199,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_mujer_dedo_B.jpeg"
 	},
 	{
-		"Nombre": "Camiseta Ojo",
+		"Nombre": "Camiseta Hombre Eye",
 		"Precio": 299,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_ojo.jpeg"
@@ -147,12 +147,7 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_tigre_rayo.jpeg"
 	},
-	{
-		"Nombre": "Camiseta Mujer Gato",
-		"Precio": 299,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_gato_mujer.jpeg"
-	},
+ 
 	 
  
 	{
@@ -163,7 +158,7 @@
 	},
 	{
 		"Nombre": "Sudadera Oxford Skull",
-		"Precio": 499,
+		"Precio": 599,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/sudadera_oxford_skull.jpeg"
 	},
@@ -241,7 +236,7 @@
 ,
 	{
 		"Nombre": "Tabla Madera Skull",
-		"Precio": 200,
+		"Precio": 299,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/tabla_madera_skull.jpeg"
 	}	,
@@ -278,8 +273,8 @@
 	}
 	,
 	{
-		"Nombre": "Camiseta Gato Mujer",
-		"Precio": 249,
+		"Nombre": "Camiseta Mujer CAT",
+		"Precio": 349,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_gato_mujer.jpeg"
 							 
@@ -391,8 +386,8 @@
 		,
 
 	 		{
-		"Nombre": "Camiseta Negra SkullPixel",
-		"Precio": 249,
+		"Nombre": "Camiseta Hombre SkullPixel",
+		"Precio": 399,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_negra_skullPixel.jpeg"
 							 
@@ -444,4 +439,42 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_tirantes_panda.jpeg"
 	}
+	,	{
+		"Nombre": " definir1",
+		"Precio":  0,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/definir1.jpeg"
+	}
+	,	{
+		"Nombre": " definir2",
+		"Precio":  399,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/definir2.jpeg"
+	}
+	,	{
+		"Nombre": " definir3",
+		"Precio":  249,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/definir3.jpeg"
+	}
+	,	{
+		"Nombre": " definir4",
+		"Precio":  799,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/definir4.jpeg"
+	}
+	,	{
+		"Nombre": " definir5",
+		"Precio":  3500,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/definir4.jpeg"
+	}
+	,	{
+		"Nombre": " definir6",
+		"Precio":  349,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/definir4.jpeg"
+	}
+
+
 ]
