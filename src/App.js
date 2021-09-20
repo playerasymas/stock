@@ -43,7 +43,7 @@ function App() {
 				variant="dark"
 				sticky="top"
 			>
-				<Navbar.Brand href="#home">Playeras & Más</Navbar.Brand>
+				<Navbar.Brand href="#home">Playeras & Más </Navbar.Brand>
 				<Navbar.Toggle aria-controls="responsive-navbar-nav" />
 				<Navbar.Collapse id="responsive-navbar-nav">
 					<Nav className="me-auto">
