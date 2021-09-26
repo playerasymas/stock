@@ -242,7 +242,7 @@
 	}	,
 	
 	{
-		"Nombre": "Camiseta Gris Skull Mecánico Mujer",
+		"Nombre": "Camiseta Gris Skull Mecánico ",
 		"Precio": 249,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_gris_skull_mecanico_mujer.jpeg"
@@ -378,7 +378,7 @@
 
 	 		{
 		"Nombre": "Camiseta Hombre SkullHalf",
-		"Precio": 249,
+		"Precio": 499,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta hombre skullHalf.jpeg"
 							 
