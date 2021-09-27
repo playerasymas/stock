@@ -1,5 +1,5 @@
 body {
-	background-color: grey !important	;
+	background-color: #303133 !important	;
 }
 
 .App {
@@ -35,6 +35,10 @@ body {
 .center-article {
 	display: flex;
 	justify-content: center;
+}
+
+.color-nav {
+	background-color: #222222 !important;
 }
 
 @keyframes App-logo-spin {

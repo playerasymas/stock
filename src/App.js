@@ -39,9 +39,9 @@ function App() {
 			<Navbar
 				collapseOnSelect
 				expand="lg"
-				bg="dark"
 				variant="dark"
 				sticky="top"
+				className="color-nav"
 			>
 				<Navbar.Brand href="#home">Playeras & Más </Navbar.Brand>
 				<Navbar.Toggle aria-controls="responsive-navbar-nav" />
