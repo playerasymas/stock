@@ -1,9 +1,18 @@
 body {
-	background-color: #303133 !important	;
+	background-color: #3c3c3c !important	;
 }
 
 .App {
 	text-align: center;
+}
+
+.precio {
+	color: red;
+	text-decoration: line-through;
+}
+
+.descuento {
+	color: grey;
 }
 
 .App-logo {
