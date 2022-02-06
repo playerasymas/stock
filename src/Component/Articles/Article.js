@@ -10,9 +10,9 @@ const Article = ({ item }) => {
 				<Card.Body>
 					<Card.Title>{item.Nombre}</Card.Title>
 					<Card.Text>{item.Descripcion}</Card.Text>
-					<p className="precio">{`$${item.Precio}`} </p>
+					<p className="precio">{`$ ${item.Precio}`} </p>
 					<p className="descuento">
-						{`$${item.Precio - (item.Precio * 40) / 100}`}{" "}
+						{`$ ${item.Precio - (item.Precio * 40) / 100}`}{" "}
 					</p>
 					{/* <Button variant="primary">Go somewhere</Button> */}
 				</Card.Body>
