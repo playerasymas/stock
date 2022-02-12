@@ -475,6 +475,30 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_mujer_panda_tatuado.jpeg"
 	}
+	,	{
+		"Nombre": "Camiseta Mujer Ojo Bordado",
+		"Precio":  600,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_mujer_ojo_bordado.jpg"
+	}
+	,	{
+		"Nombre": "Suéter Mujer BlackHeart",
+		"Precio":  549,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/sueter_mujer_blackHeart.jpg"
+	}
+	,	{
+		"Nombre": "Camiseta Hombre Pixel",
+		"Precio":  299,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_pixel.jpg"
+	}
+	,	{
+		"Nombre": "Camiseta Mujer Skull Art",
+		"Precio":  299,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_mujer_skull_art.jpg"
+	}
 
 
 ]
