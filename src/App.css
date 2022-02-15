@@ -6,11 +6,6 @@ body {
 	text-align: center;
 }
 
-.precio {
-	color: red;
-	text-decoration: line-through;
-}
-
 .descuento {
 	color: grey;
 }

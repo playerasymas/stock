@@ -48,6 +48,7 @@ function App() {
 				<Navbar.Collapse id="responsive-navbar-nav">
 					<Nav className="me-auto">
 						<Nav.Link href="#home">Inventario</Nav.Link>
+		 
 						<Nav.Link href="https://www.mecanicojeans.mx/">Tienda</Nav.Link>
 					</Nav>
 				</Navbar.Collapse>
