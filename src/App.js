@@ -48,14 +48,16 @@ function App() {
 				<Navbar.Collapse id="responsive-navbar-nav">
 					<Nav className="me-auto">
 						<Nav.Link>
-							<Link to="/stock">Mecanico</Link>
+							<Link className="links-menu" to="/stock">
+								Mecanico
+							</Link>
 						</Nav.Link>
 						<Nav.Link>
-							<Link to="/cpp">Cuidado con el Perro</Link>
+							<Link className="links-menu" to="/cpp">
+								Cuidado con el Perro
+							</Link>
 						</Nav.Link>
-						<Nav.Link>
-							<Link to="https://www.mecanicojeans.mx/">Tienda</Link>
-						</Nav.Link>
+						<Nav.Link href="https://www.mecanicojeans.mx/">Tienda</Nav.Link>
 					</Nav>
 				</Navbar.Collapse>
 

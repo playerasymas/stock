@@ -2,7 +2,18 @@ body {
 	background-color: #3c3c3c !important	;
 }
 
- 
+.links-menu {
+	color: grey;
+}
+
+a.links-menu:hover {
+	color: grey;
+	text-decoration: none;
+}
+
+a.nav-link {
+	text-decoration: none;
+}
 
 @media (prefers-reduced-motion: no-preference) {
 	.App-logo {
