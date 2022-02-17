@@ -53,7 +53,9 @@ function App() {
 						<Nav.Link>
 							<Link to="/cpp">Cuidado con el Perro</Link>
 						</Nav.Link>
-						<Nav.Link href="https://www.mecanicojeans.mx/">Tienda</Nav.Link>
+						<Nav.Link>
+							<Link to="https://www.mecanicojeans.mx/">Tienda</Link>
+						</Nav.Link>
 					</Nav>
 				</Navbar.Collapse>
 
