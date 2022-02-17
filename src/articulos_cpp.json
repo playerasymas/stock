@@ -1,0 +1,41 @@
+[
+
+	{
+		"Nombre": "Playera Mujer Blanca Cop",
+		"Precio": 130,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/playera_mujer_blanca_cop.jpeg"
+	},
+	{
+		"Nombre": "Playera Mujer Rayas",
+		"Precio": 99,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/playera_mujer_rayas.jpeg"		
+	},
+  
+	{
+		"Nombre": "Blusa Mujer Azul Marino",
+		"Precio": 119,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/blusa_mujer_azul_marino.jpeg"
+	},
+ 
+	{
+		"Nombre": "Playera Hombre Blanca Attitude",
+		"Precio": 130,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/playera_hombre_blanca_attitude.jpeg"
+	} ,
+	{
+		"Nombre": "Playera Mujer Negra Comieron",
+		"Precio": 99,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/playera_mujer_negra_comieron.jpeg"
+	} ,
+	{
+		"Nombre": "Sudadera Mujer Negra Comieron",
+		"Precio": 99,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/playera_mujer_negra_comieron.jpeg"
+	} 
+]

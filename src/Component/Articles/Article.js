@@ -14,6 +14,7 @@ const Article = ({ item }) => {
 					{/* <p className="descuento">
 						{`$ ${item.Precio - (item.Precio * 40) / 100}`}{" "}
 					</p> */}
+					{/* <Button variant="primary">Go somewhere</Button> */}
 				</Card.Body>
 			</Card>
 		</Col>

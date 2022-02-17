@@ -1,4 +1,7 @@
 import React, { useState } from "react";
+import { Routes, Route, Link } from "react-router-dom";
+import Stock from "./stock";
+import Cuidado from "./cpp";
 
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -11,9 +14,6 @@ import {
 	Navbar,
 	Nav,
 } from "react-bootstrap";
-
-import Article from "./Component/Articles/Article";
-import bdArticulos from "./articulos.json";
 
 function App() {
 	let eliminarDiacriticosEs = (texto) => {
@@ -47,8 +47,12 @@ function App() {
 				<Navbar.Toggle aria-controls="responsive-navbar-nav" />
 				<Navbar.Collapse id="responsive-navbar-nav">
 					<Nav className="me-auto">
-						<Nav.Link href="#home">Inventario</Nav.Link>
-
+						<Nav.Link>
+							<Link to="/stock">Mecanico</Link>
+						</Nav.Link>
+						<Nav.Link>
+							<Link to="/cpp">Cuidado con el Perro</Link>
+						</Nav.Link>
 						<Nav.Link href="https://www.mecanicojeans.mx/">Tienda</Nav.Link>
 					</Nav>
 				</Navbar.Collapse>
@@ -63,35 +67,14 @@ function App() {
 					<Button variant="outline-info">Buscar</Button>
 				</Form>
 			</Navbar>
-
 			<Container>
-				<Row>
-					{word !== ""
-						? bdArticulos
-								.filter((el) =>
-									el.Nombre.normalize("NFD")
-										.replace(
-											/([^n\u0300-\u036f]|n(?!\u0303(?![\u0300-\u036f])))[\u0300-\u036f]+/gi,
-											"$1"
-										)
-										.normalize()
-										.toLowerCase()
-										.includes(word.toLowerCase())
-								)
-								.map((el, i) => {
-									return <Article key={i} item={el} />;
-								})
-						: bdArticulos
-								.sort(function (a, b) {
-									if (a.Nombre < b.Nombre) return -1;
-									if (a.Nombre > b.Nombre) return 1;
-									return 0;
-								})
-								.map((el, i) => {
-									return <Article key={i} item={el} />;
-								})}
-				</Row>
+				<Row></Row>
 			</Container>
+			<Routes>
+				<Route path="/stock" element={<Stock />} />
+				<Route path="/cpp" element={<Cuidado />} />
+			</Routes>
+			;
 		</>
 	);
 }
