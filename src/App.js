@@ -57,7 +57,7 @@ function App() {
 								Cuidado con el Perro
 							</Link>
 						</Nav.Link>
-						<Nav.Link href="https://www.mecanicojeans.mx/">Tienda</Nav.Link>
+						{/* <Nav.Link href="https://www.mecanicojeans.mx/">Tienda</Nav.Link> */}
 					</Nav>
 				</Navbar.Collapse>
 
@@ -71,6 +71,20 @@ function App() {
 					<Button variant="outline-info">Buscar</Button>
 				</Form>
 			</Navbar>
+			<>
+				<div className="cont-botones-mobile">
+					<Link className="links-menu" to="/stock">
+						<Button className="botones-mobile" variant="outline-light">
+							Mecanico
+						</Button>{" "}
+					</Link>
+					<Link className="links-menu" to="/cpp">
+						<Button className="botones-mobile" variant="outline-light">
+							Cuidado con el Perro
+						</Button>{" "}
+					</Link>
+				</div>
+			</>
 			<Container>
 				<Row></Row>
 			</Container>

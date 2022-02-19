@@ -53,3 +53,15 @@ a.nav-link {
 		transform: rotate(360deg);
 	}
 }
+
+.cont-botones-mobile {
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 10%;
+}
+
+@media screen and (min-width: 999px) {
+	.botones-mobile {
+		display: none !important;
+	}
+}
