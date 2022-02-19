@@ -15,7 +15,7 @@
   
 	{
 		"Nombre": "Blusa Mujer Azul Marino",
-		"Precio": 119,
+		"Precio": 149,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/blusa_mujer_azul_marino.jpeg"
 	},
@@ -33,9 +33,9 @@
 		"Urlimage": "https://playerasymas.github.io/stock/images/playera_mujer_negra_comieron.jpeg"
 	} ,
 	{
-		"Nombre": "Sudadera Mujer Negra Comieron",
-		"Precio": 99,
+		"Nombre": "Sudadera Unisex Negra Night Poetry",
+		"Precio": 199,
 		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/playera_mujer_negra_comieron.jpeg"
+		"Urlimage": "https://playerasymas.github.io/stock/images/sudadera_unisex_night.jpeg"
 	} 
 ]
