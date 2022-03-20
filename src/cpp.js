@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -36,6 +37,54 @@ function Cuidado() {
 
 	return (
 		<>
+			<Navbar
+				collapseOnSelect
+				expand="lg"
+				variant="dark"
+				sticky="top"
+				className="color-nav"
+			>
+				<Navbar.Brand href="#home">Playeras & Más </Navbar.Brand>
+				<Navbar.Toggle aria-controls="responsive-navbar-nav" />
+				<Navbar.Collapse id="responsive-navbar-nav">
+					<Nav className="me-auto">
+						<Nav.Link>
+							<Link className="links-menu" to="/stock">
+								Mecanico
+							</Link>
+						</Nav.Link>
+						<Nav.Link>
+							<Link className="links-menu" to="/cpp">
+								Cuidado con el Perro
+							</Link>
+						</Nav.Link>
+					</Nav>
+				</Navbar.Collapse>
+
+				<Form inline>
+					<FormControl
+						type="text"
+						placeholder="Búsqueda"
+						className="mr-sm-2"
+						onChange={search}
+					/>
+					<Button variant="outline-info">Buscar</Button>
+				</Form>
+			</Navbar>
+			<>
+				<div className="cont-botones-mobile">
+					<Link className="links-menu" to="/stock">
+						<Button className="botones-mobile" variant="outline-light">
+							Mecanico
+						</Button>{" "}
+					</Link>
+					<Link className="links-menu" to="/cpp">
+						<Button className="botones-mobile" variant="outline-light">
+							Cuidado con el Perro
+						</Button>{" "}
+					</Link>
+				</div>
+			</>
 			<Container>
 				<Row>
 					{word !== ""
