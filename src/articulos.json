@@ -135,12 +135,7 @@
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_puntos_neon.jpeg"
 	},
  
-	{
-		"Nombre": "Camiseta Hombre CM",
-		"Precio": 199,
-		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_CM.jpeg"
-	},
+
 	{
 		"Nombre": "Camiseta Hombre Tigre Rayo",
 		"Precio": 299,
@@ -507,6 +502,46 @@
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/playera_skull king_hombre.jpeg"
 	}
+
+	,	{
+		"Nombre": "Rebozo Tejido Calidad Premium",
+		"Precio":  499,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/playera_skull king_hombre.jpeg"
+	}
+
+	,	{
+		"Nombre": "Camiseta Hombre Einstein",
+		"Precio":  349,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_einstein.jpeg"
+	}
+
+	,	{
+		"Nombre": "Paliacate Blanco Skull Mini",
+		"Precio":  199,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/paliacate_blanco_skull_mini.jpeg"
+	}
+
+	,	{
+		"Nombre": "Playera Skull King Hombre",
+		"Precio":  199,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/playera_skull king_hombre.jpeg"
+	}
+,
+
+
+
+
+	{
+		"Nombre": "Camiseta Hombre CM",
+		"Precio": 199,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_CM.jpeg"
+	},
+
 
 
 ]
