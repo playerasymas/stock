@@ -478,7 +478,7 @@
 		"Nombre": "Rebozo Tejido Calidad Premium",
 		"Precio":  499,
 		"Descripcion": null,
-		"Urlimage": "https://playerasymas.github.io/stock/images/rebozo_tejido_calidad_premium.jpeg"
+		"Urlimage": "https://playerasymas.github.io/stock/images/playera_skull king_hombre.jpeg"
 	}
 
 	,	{
@@ -495,7 +495,12 @@
 		"Urlimage": "https://playerasymas.github.io/stock/images/paliacate_blanco_skull_mini.jpeg"
 	}
 
- 
+	,	{
+		"Nombre": "Playera Skull King Hombre",
+		"Precio":  199,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/playera_skull king_hombre.jpeg"
+	}
 ,
 
 	
@@ -506,6 +511,43 @@
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_tigre_rayo.jpeg"
 	}
 
+,
 
+
+	{
+		"Nombre": "Camiseta Hombre CM",
+		"Precio": 199,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_CM.jpeg"
+	}
+
+
+	
+,
+	 		{
+		"Nombre": "Camiseta Hombre SkullPixel",
+		"Precio": 399,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_negra_skullPixel.jpeg"
+							 
+	}
+
+
+	,
+		{
+		"Nombre": "Camiseta Hombre León",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_leon.jpeg"
+	}
+,
+		{
+		"Nombre": "Camiseta Hombre Tigre",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_tigre.jpeg"
+	}
+
+	
 
 ]
