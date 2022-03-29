@@ -357,8 +357,6 @@
 							 
 	}
 		,
-
-
 		
 	 		{
 		"Nombre": "Camiseta Hombre PC",
@@ -504,6 +502,15 @@
 		"Precio": 299,
 		"Descripcion": null,
 		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_tigre_rayo.jpeg"
+	}
+,
+
+	
+		{
+		"Nombre": "Camiseta Hombre SWhite",
+		"Precio": 299,
+		"Descripcion": null,
+		"Urlimage": "https://playerasymas.github.io/stock/images/camiseta_hombre_swhite.jpeg"
 	}
 
 
